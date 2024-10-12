@@ -17,7 +17,7 @@ sections:
       I’m constantly exploring new trends and techniques to keep growing.
 
 
-      > **Fun fact:**
+      > **Fun Fact:**
 
       >
 
