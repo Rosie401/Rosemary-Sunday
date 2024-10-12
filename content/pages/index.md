@@ -21,8 +21,8 @@ sections:
 
       >
 
-      >   I’m a fan of historical stories!—it inspires how I approach design
-      with both perspective and depth!
+      >  I’m a fan of historical stories!—it inspires how I approach design with
+      both perspective and depth!
 
     actions:
       - label: Get started
