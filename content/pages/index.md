@@ -25,7 +25,7 @@ sections:
       both perspective and depth!
 
     actions:
-      - label: Get started
+      - label: Download Resume
         altText: ''
         url: >-
           /https://drive.google.com/file/d/1bT50ocGJ_MAei0xKk-EoSRrvbelqgKDt/view?usp=drive_link
