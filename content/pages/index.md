@@ -30,7 +30,7 @@ sections:
         url: >-
           /https://drive.google.com/file/d/1bT50ocGJ_MAei0xKk-EoSRrvbelqgKDt/view?usp=drive_link
         showIcon: false
-        icon: arrowRight
+        icon: chevronDown
         iconPosition: right
         style: primary
         elementId: ''
