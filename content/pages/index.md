@@ -36,7 +36,7 @@ sections:
         elementId: ''
         type: Button
     media:
-      url: /images/Cropped .jpg
+      url: /images/WhatsApp Image 2024-01-27 at 20.35.07_1ac6cc51.jpg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
