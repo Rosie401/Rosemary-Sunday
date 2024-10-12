@@ -8,8 +8,8 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: I’m a passionate UI/UX Designer.
-    text: >
-      > I specialize in creating engaging Web and Mobile App experiences that
+    text: >+
+      I specialize in creating engaging Web and Mobile App experiences that
       blend creativity and functionality.
 
 
@@ -17,8 +17,13 @@ sections:
       I’m constantly exploring new trends and techniques to keep growing.
 
 
-      **Fun fact:**  I’m a fan of historical stories!—it inspires how I approach
-      design with both perspective and depth!
+      > **Fun fact:**
+
+      >
+
+      >   I’m a fan of historical stories!—it inspires how I approach design
+      with both perspective and depth!
+
     actions:
       - label: Get started
         altText: ''
