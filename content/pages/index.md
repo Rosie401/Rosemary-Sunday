@@ -29,7 +29,7 @@ sections:
         altText: ''
         url: >-
           /https://drive.google.com/file/d/1bT50ocGJ_MAei0xKk-EoSRrvbelqgKDt/view?usp=drive_link
-        showIcon: false
+        showIcon: true
         icon: chevronLeft
         iconPosition: right
         style: primary
