@@ -17,8 +17,8 @@ sections:
       I’m constantly exploring new trends and techniques to keep growing.
 
 
-      **Fun fact:** I have a love for all things historical—it inspires how I
-      approach design with both perspective and depth!
+      **Fun fact:**  I’m a fan of historical stories!—it inspires how I approach
+      design with both perspective and depth!
     actions:
       - label: Get started
         altText: ''
