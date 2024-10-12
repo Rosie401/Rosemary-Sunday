@@ -125,6 +125,17 @@ sections:
           - pb-7
           - pr-7
     type: DividerSection
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-12
+          - pl-12
+          - pb-12
+          - pr-12
   - type: CarouselSection
     title: null
     subtitle: What our customers say about us
@@ -317,17 +328,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - type: DividerSection
-    title: Divider
-    elementId: ''
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-12
-          - pl-12
-          - pb-12
-          - pr-12
   - title:
       text: Generic Section With A Form
       color: text-dark
