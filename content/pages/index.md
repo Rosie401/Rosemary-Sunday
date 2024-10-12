@@ -9,9 +9,16 @@ sections:
       type: TitleBlock
     subtitle: I’m a passionate UI/UX Designer.
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      I specialize in creating engaging Web and Mobile App experiences that
+      blend creativity and functionality.
+
+
+      Designing solutions that elevate user experience is what drives me, and
+      I’m constantly exploring new trends and techniques to keep growing.
+
+
+      **Fun fact:** I have a love for all things historical—it inspires how I
+      approach design with both perspective and depth!
     actions:
       - label: Get started
         altText: ''
