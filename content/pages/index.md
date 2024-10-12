@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Hey there
+      text: "Hello there! \U0001F60A"
       color: text-dark
       type: TitleBlock
     subtitle: 'My name is Rosemary, and I’m a passionate UI/UX Designer.'
