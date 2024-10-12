@@ -9,7 +9,7 @@ sections:
       type: TitleBlock
     subtitle: I’m a passionate UI/UX Designer.
     text: >
-      I specialize in creating engaging Web and Mobile App experiences that
+      > I specialize in creating engaging Web and Mobile App experiences that
       blend creativity and functionality.
 
 
