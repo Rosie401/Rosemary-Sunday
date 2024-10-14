@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Home
+title: Work with me
 sections:
   - type: GenericSection
     title:
