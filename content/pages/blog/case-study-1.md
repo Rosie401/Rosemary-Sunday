@@ -1,5 +1,5 @@
 ---
-title: FlowerExpress
+title: Flower Ordering Website
 slug: case-study-1
 date: '2022-12-05'
 excerpt: >-
